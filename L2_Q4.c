@@ -4,7 +4,6 @@
 #include<stdlib.h>
 
 int maior_numero (int N1, int N2, int N3){
-	int maior, aux1, aux2;
 	
     if(N1<N2 && N2<N3)
        printf("%d %d %d", N1, N2, N3);
