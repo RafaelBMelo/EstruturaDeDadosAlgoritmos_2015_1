@@ -1,1 +1,1 @@
-
+O seguinte programa recebe um número inteiro escrito pelo o usuário e depois imprime na tela este mesmo número escrito pelo o usuário.
